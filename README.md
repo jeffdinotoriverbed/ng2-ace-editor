@@ -1,6 +1,7 @@
 # ng2-ace-editor
 
-[![npm version](https://badge.fury.io/js/ng2-ace-editor.svg)](https://www.npmjs.com/package/ng2-ace-editor) 
+[![npm version](https://badge.fury.io/js/ng2-ace-editor.svg)](https://www.npmjs.com/package/ng2-ace-editor) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fng2-ace-editor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fng2-ace-editor?ref=badge_shield)
+
 Ace editor integration with typescript for angular 5.  
 **To use Angular 4 install version 0.3.1 (npm i -S ng2-ace-editor@0.3.1).**
 
@@ -116,3 +117,7 @@ export class AceCmp {
 
 # Power by
 [Use Code](http://www.use-code.com)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fng2-ace-editor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fng2-ace-editor?ref=badge_large)
